@@ -17,6 +17,7 @@ foreach($finalArr as $list){
 			
 			
 			$jio='https://snehtv-april2.in1.bitmana.io/jiotvplus/'.$replace;
+					echo $jio;
 			
 			?>
 <?php
