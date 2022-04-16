@@ -18,13 +18,7 @@ foreach($finalArr as $list){
 			
 			$jio='https://snehtv-april2.in1.bitmana.io/jiotvplus/'.$replace;
 			
-			?><video width="320" height="240" controls>
-  <source src="<?php  echo $jio; ?>" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-
-
+			?>
 <?php
 			
 			
